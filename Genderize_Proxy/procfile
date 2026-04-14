@@ -1,0 +1,1 @@
+web: gunicorn Genderize_Proxy.wsgi
